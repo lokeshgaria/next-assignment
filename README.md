@@ -47,7 +47,7 @@ A simple blog built with **Next.js Pages Router**, demonstrating:
 ### 1. 📥 Clone the Repo
 
 ```bash
-git clone [https://github.com/your-username/nextjs-blog-pages.git](https://github.com/lokeshgaria/next-assignment.git)
+git clone https://github.com/lokeshgaria/next-assignment.git
 cd nextjs-blog-pages
 
 ```
