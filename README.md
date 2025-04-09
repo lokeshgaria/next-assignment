@@ -47,16 +47,16 @@ A simple blog built with **Next.js Pages Router**, demonstrating:
 ### 1. 📥 Clone the Repo
 
 ```bash
-git clone https://github.com/your-username/nextjs-blog-pages.git
+git clone [https://github.com/your-username/nextjs-blog-pages.git](https://github.com/lokeshgaria/next-assignment.git)
 cd nextjs-blog-pages
 
 ```
-### 2. 📥 to start project  
+### 2.To start project  
 ```bash 
  1 npm install
  2 npm run dev
 ```
-### 3. 📥 to run test case  
+### 3. To run test case  
 ```bash 
 npm run test
 ```
