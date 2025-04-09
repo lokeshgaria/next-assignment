@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import  React ,{ useState } from 'react';
 import Link from 'next/link';
 import Card from '../component/Card';
 import styles from '../styles/Home.module.css';

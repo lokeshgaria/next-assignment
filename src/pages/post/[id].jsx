@@ -1,4 +1,6 @@
 import styles from "../../styles/Post.module.css"
+import React from 'react';
+
 export async function getServerSideProps(context) {
     const { id } = context.params;
     const res = await fetch(`https://jsonplaceholder.typicode.com/posts/${id}`);
